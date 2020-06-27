@@ -1,4 +1,4 @@
-# Android Queue System for Hospital
+# Android Queue System for Hospital (Under Development)
 This application will be used in the Bayukarta Karawang Hospital in implementing the queuing system for patients.
 
 # Software Requirement
