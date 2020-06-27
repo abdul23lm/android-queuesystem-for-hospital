@@ -7,7 +7,7 @@ This application will be used in the Bayukarta Karawang Hospital in implementing
 
 # User Interface
 
-![SplashScreen](https://github.com/abdul23lm/video-playback-with-ar-concept-using-unity/blob/master/SplashScreen-Landscape.png)
+![SplashScreen](https://github.com/abdul23lm/android-queuesystem-for-hospital/blob/master/SplashScreen-Landscape.png)
 
-![Main Menu](https://github.com/abdul23lm/video-playback-with-ar-concept-using-unity/blob/master/MainMenu-Landscape.png)
+![Main Menu](https://github.com/abdul23lm/android-queuesystem-for-hospital/blob/master/MainMenu-Landscape.png)
 
